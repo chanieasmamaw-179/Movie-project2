@@ -1,0 +1,20 @@
+{
+    "titanic": {
+        "title": "Titanic",
+        "rating": 9.0,
+        "genre": "Love story",
+        "year": 1990
+    },
+    "mother-indea": {
+        "title": "Mother-Indea",
+        "rating": 10.0,
+        "genre": "Love story",
+        "year": 1980
+    },
+    "zara_chandra": {
+        "title": "Zara_chandra",
+        "rating": 11.0,
+        "genre": "Commedy",
+        "year": 2020
+    }
+}
